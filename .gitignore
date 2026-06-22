@@ -1,0 +1,7 @@
+node_modules
+dist
+.tsc-out
+*.local
+conversation-summary.txt
+test-game.mjs
+test-screenshots/
